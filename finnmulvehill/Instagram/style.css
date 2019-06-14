@@ -1,0 +1,97 @@
+.row{
+ border:2px solid black;
+
+ height: 400px;
+}
+
+.box{
+  width:33%;
+  height:100%;
+  display: inline-block;
+  /* border:2px solid pink; */
+}
+
+
+#box1{
+display: inline-block;
+background-size: cover;
+background-image: url(https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDQ0VsWm4ANelYXibqlA1N6yI-1ZikjeKYGmiFCA_8E3n8Jj_5cs5N9KaLremEjh-RqS15inSLZPe8NJ4v2Hm8LBoj_uSp3WkUS18D5Pg&usqp=CAc);
+
+}
+
+#box1:hover{
+  background-color:yellow;
+  color:blue;
+  padding; 20px
+display: inline-block;
+background-size: cover;
+background-image: url(https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDQ0VsWm4ANelYXibqlA1N6yI-1ZikjeKYGmiFCA_8E3n8Jj_5cs5N9KaLremEjh-RqS15inSLZPe8NJ4v2Hm8LBoj_uSp3WkUS18D5Pg&usqp=CAc);
+
+}
+
+
+#box2{
+display: inline-block;
+background-size:cover;
+background-image: url(https://ae01.alicdn.com/kf/HTB1M9YbKXXXXXXaXFXXq6xXFXXXX/PEAK-SPORT-Speed-Eagle-II-FIBA-World-Cup-Men-font-b-Basketball-b-font-font-b.jpg);
+}
+
+
+#box2:hover{
+display: inline-block;
+background-size:cover;
+background-image: url(https://ae01.alicdn.com/kf/HTB1M9YbKXXXXXXaXFXXq6xXFXXXX/PEAK-SPORT-Speed-Eagle-II-FIBA-World-Cup-Men-font-b-Basketball-b-font-font-b.jpg);
+}
+
+
+#box3{
+display: inline-block;
+background-size: cover;
+background-image: url(https://i.pinimg.com/originals/75/da/4d/75da4d295222b86eb93570f6e8c69e08.jpg);
+}
+
+
+#box3:hover{
+display: inline-block;
+background-size: cover;
+background-image: url(https://i.pinimg.com/originals/75/da/4d/75da4d295222b86eb93570f6e8c69e08.jpg);
+}
+
+#box4{
+display: inline-block;
+background-size: cover;
+background-image: url(https://images.japancentre.com/recipes/pics/1540/main/hosomaki.jpg?1475064446);
+}
+
+
+#box4:hover{
+display: inline-block;
+background-size: cover;
+background-image: url(https://images.japancentre.com/recipes/pics/1540/main/hosomaki.jpg?1475064446);
+}
+
+#box5{
+display: inline-block;
+background-size: cover;
+background-image: url(https://usatthebiglead.files.wordpress.com/2015/10/julian-edelmann-breaking-cowboys-ankles.gif?w=640);
+}
+
+
+#box5:hover{
+display: inline-block;
+background-size: cover;
+background-image: url(https://usatthebiglead.files.wordpress.com/2015/10/julian-edelmann-breaking-cowboys-ankles.gif?w=640);
+}
+
+#box6{
+display: inline-block;
+background-size: cover;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS763Th9ELooleXUXIfK7OglwxYibfhYKCjRNSOyv7jz8PfRzQigg);
+}
+
+
+#box6:hover{
+display: inline-block;
+background-size: cover;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS763Th9ELooleXUXIfK7OglwxYibfhYKCjRNSOyv7jz8PfRzQigg);
+}

@@ -1,0 +1,14 @@
+.section{
+background-color: black;
+color:white;
+padding:20px;
+border: 2px solid green;
+width: 100%;
+}
+.section:hover{
+background-color: green;
+color: white;
+padding: 20px
+border:4px dashed black
+width:100%
+}

@@ -1,0 +1,36 @@
+s.red {color: red}
+.orange {color: orange}
+.yellow {color:yellow}
+.green {color: green}
+.blue {color: blue}
+.indigo {color: indigo}
+.violet {color: violet}
+
+@keyframes type {
+  from{width: 0;}
+    to{width: 100%;}
+}
+
+#hi{
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 6s infinite;
+}
+
+#name{
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 7s infinite;
+}
+
+#sports{
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 9s infinite;
+}
+
+#basketball{
+  white-space: nowrap;
+  overflow:hidden;
+  animation: type 11s infinite;
+}

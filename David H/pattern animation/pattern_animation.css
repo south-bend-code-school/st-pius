@@ -1,0 +1,27 @@
+
+@keyframes background-
+ScrollRight{
+from  {background-position: 0,0;
+}
+to{background-position: 200px,
+0;}
+}
+.orange {background-image: url("https://media2.giphy.com/media/GbM1yTK3Euo1O/source.gif");
+width: 1000px;
+height: 100px;
+animation: background-ScrollRight 10s linear infinite;
+}
+.blue {background-image:url("https://media0.giphy.com/media/l3vRbTrGdpZrjjco8/source.gif");
+width: 1000px;
+height: 100px;
+}
+#default_dance_gif{
+z-index: 2;
+position: absolute;
+height:400px;
+width:400px;
+}
+.red {background-image:url("https://media.giphy.com/media/14a1EEkMPkbPQk/giphy.gif");
+width:1000px;
+height:300px;
+}

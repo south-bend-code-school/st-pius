@@ -1,0 +1,19 @@
+@keyframes type {
+
+from {width:0;}
+to {width:100%;}
+}
+
+@keyframes blink {
+  from  {color:transparent}
+    to {color:green}
+}
+
+.blinkspan{
+      animation: type 4s infinite;
+    }
+
+#blinker{
+  animation: blink 2.5 infinite;
+  color: red;
+}

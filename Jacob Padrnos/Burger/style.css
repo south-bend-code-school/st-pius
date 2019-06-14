@@ -1,0 +1,30 @@
+.topbun{
+  background-color: tan;
+  height: 50px;
+  width:100px;
+border-radius: 100px 100px 20px 20px;}
+.cheese{
+  background-color: yellow;
+  height: 50px;
+  width: 100px;
+border-radius: 5px 5px 5px 5px;}
+.tomato{
+  background-color: red;
+  height: 50px;
+  width: 100px;
+border-radius: 5px 5px 5px 5px;}
+.pickle{
+  background-color: green;
+  height: 50px;
+  width: 100px;
+border-radius: 5px 5px 5px 5px;}
+.patty{
+  background-color: brown;
+  height: 50px;
+  width: 100px;
+border-radius: 5px 5px 5px 5px;}
+.bottombun{
+  background-color: tan;
+  height: 50px;
+  width: 100px;
+border-radius: 20px 20px 100px 100px;}

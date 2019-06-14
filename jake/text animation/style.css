@@ -1,0 +1,90 @@
+@keyframes type {
+  from{width:0;}
+    to{width:100%;}
+}
+@keyframes blink {
+  from{color: transparent;}
+    to{color: black;}
+}
+.blinkspan{
+
+  animation:type 1.5s infinite;
+  white-space: nowrap;
+  overflow: hidden;
+}
+/*#a{white-space: nowrap;
+overflow: hidden;
+
+}
+#b{white-space: nowrap;
+overflow: hidden;
+
+
+}
+#c{white-space: nowrap;
+overflow: hidden;
+
+
+}
+#d{white-space: nowrap;
+overflow: hidden;
+
+
+}
+#e{white-space: nowrap;
+overflow: hidden;
+
+
+
+}
+#f{white-space: nowrap;
+overflow: hidden;
+
+
+}
+#g{white-space: nowrap;
+overflow:hidden;
+
+
+}
+#h{white-space: nowrap;
+overflow: hidden;
+
+
+
+
+}
+#i{white-space: nowrap;
+overflow: hidden;
+
+
+
+
+
+}
+#j{white-space: nowrap;
+overflow: hidden;
+
+
+
+
+
+}
+#k{white-space: nowrap;
+overflow: hidden;
+
+
+
+}
+#l{white-space: nowrap;
+overflow: hidden;
+
+
+
+
+}
+#m{white-space: nowrap;
+overflow: hidden;
+
+
+}
